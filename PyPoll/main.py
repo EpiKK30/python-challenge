@@ -1,11 +1,12 @@
+# Dependencies
 import os
 import csv
 
-# File paths
+# File paths to load and output
 file_to_load = "PyPoll/Resources/election_data.csv"
 file_to_output = "PyPoll/analysis/election_analysis.txt"
 
-# Initialize variables
+# Initialize variables and track various parameters
 total_votes = 0
 candidates = []
 candidate_votes = {}

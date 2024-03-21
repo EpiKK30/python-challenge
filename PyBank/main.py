@@ -1,11 +1,12 @@
+# Dependencies
 import os
 import csv
 
-# File paths
+# File paths to load and output
 file_to_load = "PyBank/Resources/budget_data.csv"
 file_to_output = "PyBank/analysis/budget_analysis.txt"
 
-# Initialize variables
+# Initialize variables and track various parameters
 total_months = 0
 net_total = 0
 average_change = 0

@@ -33,7 +33,7 @@ Before running the scripts, follow these steps:
   - Calculates total votes cast, lists of candidates who received votes, percentages of votes each candidate won, and determines the winner of the election based on popular vote.
   - Utilizes Python's file handling capabilities and data structures like lists and dictionaries.
 
-**Hints and Considerations:**
+**Considerations:**
 - Use the `csv` module to handle CSV files effectively.
 - Employ variables, lists, and dictionaries to store and manipulate data.
 - Break down tasks into smaller objectives for efficient problem-solving.
@@ -47,7 +47,9 @@ Before running the scripts, follow these steps:
 - Each script operates independently, analyzing its respective dataset.
 - Remember to review the `README.md` file within each project folder for specific instructions and details.
 
+**Code Source:** The Python script development process heavily utilized the Xpert Learning Assistant platform, leveraging its vast knowledge base and interactive capabilities. Additionally, some cross-comparisons were made with ' ChatGPT to address specific challenges encountered during script development.
+
 **Contact Information:**
 If you have any questions, suggestions, or encounter issues, feel free to reach out to me via email at ngalakevin@gmail.com.
 
-Thank you for exploring the Python Challenge repository!
+Thank you for exploring my Python Challenge repository!
